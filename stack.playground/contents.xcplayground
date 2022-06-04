@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='queue'/>
+        <page name='stack'/>
+        <page name='linked lists'/>
+        <page name='iterative all BST'/>
+        <page name='bubblesort'/>
+        <page name='hash table'/>
+    </pages>
+</playground>
