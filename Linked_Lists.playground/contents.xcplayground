@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Full LinkedList - Generics'/>
+        <page name='Int - LinkedList_Structure'/>
+        <page name='generics with init'/>
+        <page name='regular Int with init'/>
+    </pages>
+</playground>
